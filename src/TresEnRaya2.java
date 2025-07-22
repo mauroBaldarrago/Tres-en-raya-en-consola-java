@@ -1,6 +1,7 @@
 // Laboratorio N°21 - Ejercicio2
 // Autor: Mauro Daniel Baldarrago Flores
 // Tiempo 1h y 30min
+//Edición para probar el Github
 import java.util.Scanner;
 public class TresEnRaya2 {
     public static void main(String[] args) {
